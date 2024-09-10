@@ -1,6 +1,6 @@
 # JAVA Programming in 30 Days and continue...!
 
-Join me on a month-long journey to enhance my Java skills with expert guidance from Kunal Kushwaha, Deepak Java, and rigorous practice on platforms like GeeksforGeeks (GFG), LeetCode, and HackerRank.
+Join me on a month-long journey to enhance my Java skills with expert guidance from Kunal Kushwaha, Deepak Java, and rigorous practice on platforms like GeeksforGeeks (GFG), LeetCode, and @HackerRank.
 
 Follow my progress as I tackle challenging problems, learn new concepts, and improve my coding abilities. Let's grow and learn together!"
 
