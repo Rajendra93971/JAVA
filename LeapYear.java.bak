@@ -1,0 +1,21 @@
+
+import java.util.Scanner;
+
+class LeapYear {
+
+    public static void main(String args[]) {
+        Scanner scanner = new Scanner(System.in);
+        int y = 0;
+        System.out.println("Enter Year ");
+        scanner.nextInt();
+        scanner.close();
+
+        if ((y % 4 == 0 && 100 != 0) || (y % 400 == 0)) {
+            System.out.println("Yes");
+        } else {
+
+            System.out.println("No");
+        }
+
+    }
+}
